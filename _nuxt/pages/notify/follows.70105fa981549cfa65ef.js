@@ -1,0 +1,1 @@
+webpackJsonp([22],{bEBH:function(l,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var u=n("VU/8")(null,null,!1,null,null,null);u.options.__file="pages/notify/follows.vue",e.default=u.exports}});
